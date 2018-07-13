@@ -23,11 +23,14 @@ This assignment utilized request/get libraries, and later on beatifulsoup, to sc
 
 #### Linear and k-NN Regression
 
+This assignment explored k-nearest neighbor and linear regression methods for predicting quantitative variables. Regression models were built to predict the number of taxi pickups in NYC at any given time of the day. This project could be used by taxicab drivers to predict their earnings, and city officials to predict traffic.
 
 
 ### Pset 3
 
-#### Forecasting Bike Sharing Usage
+#### Multiple Linear Regression, Subset Selection, Polynomial Regression
+
+This assignment explored another group of prediction methodologies to forecast bike sharing usage.
 
 
 
