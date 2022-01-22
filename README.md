@@ -1,16 +1,15 @@
-# CS109
-
-## Harvard Extension Class CS109A - Data Science
+# CS109 - Data Science
+### Summer 2018
 ----
 
+## Final Project: Twitter Bot Detection
+Project: https://github.com/eumarassis/Harvard-s109-TwitterBotDetection
 
+In a team of four, we assembled and trained a variety of classification algorithms (KNN, LogReg, AdaBoost, Random Forest, etc) on a large set of prelabeled twitter data (bots, non-bots). The Random Forest classifier achieved 80% accuracy on the testing data. 
 
-### Pset 0
+----
 
-#### Qualifications
-
-This (ungraded) problem set aims to evaluate students' qualifications. This pset was broken into three components: Math (elementary linear algebra, calculus, & probability), coding, and software testing/engineering. 
-
+## Problem Sets
 
 
 ### Pset 1
