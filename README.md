@@ -27,11 +27,29 @@ This assignment explored k-nearest neighbor and linear regression methods for pr
 
 ### Pset 3
 
-#### Multiple Linear Regression, Subset Selection, Polynomial Regression
+#### EDA, Multiple Linear Regression, Subset Selection, Polynomial Regression
 
 This assignment explored another group of prediction methodologies to forecast bike sharing usage.
 
 
 
+### Pset 4
 
+#### Feature Selection via Regularization (Lasso and Ridge Regression) and Cross Validation
+
+This assigment continued to explore the bike sharing data. Feature selection techniques were explored, begining with bootstrapping a multiple linear regression model. Further in the assignment we explored regularization and penalization methods. Towards the end of the assignment we developed cross validation algorithms to evaluate our models.
+
+
+### Pset 5
+
+#### Logistic Regression, High Dimensionality and PCA, LDA/QDA
+
+This assignment explored genomics data using classification models. 
+
+
+### Pset 6
+
+#### Ensemble Methods, and Neural Networks
+
+This assigment explored bagging techniques for classification models, namely decision trees and randm forests, on Higgs Boson data. Boostong models (AdaBoost) on classifiers to improve on the decision tree's accuracies. Later an ensemble method is built on the results of 5 model's prediction (ada, rd, log, qda, knn), supplemented with training data.  Lastly, a sequential neural network built on keras is used to predict simulated data (a sinewave). 
 
